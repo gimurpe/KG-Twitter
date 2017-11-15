@@ -4,15 +4,15 @@ Welcome to a KG Twitter! Made with effort for all of you.
 
 Enjoy! 
 
-##How to run
+## How to run
 
 json-server --watch twits.json
 
 &
+1. npm install
+2. yarn dev to run
 
-yarn dev
-
-##How it works
+## How it works
 
 - Login (no registration)
 - You can tweet
