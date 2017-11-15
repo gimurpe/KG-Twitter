@@ -1,13 +1,22 @@
-# A Complete Intro to React
+# KG Twitter By Memo
 
-Welcome to a complete intro to React! The site actual workshop material for this repo can be found [here][gh-page]. On the master branch you will find the completed project. On the start branch you will find the barebones boilerplater of the project designed to help you get started.
+Welcome to a KG Twitter! Made with effort for all of you !.
 
-## Contributing
+## Login Accounts
 
-Please contribute, file issues, and make PRs. More than anything I'm sure there are typos abounding.
+username: Gilberto,
+password: 1234
+
+username: Ernesto,
+password: 123
+
+username: Batman,
+password: 12
+
+username: Spike,
+password: abc
 
 ## License
 
-MIT
+Memo
 
-[gh-page]: http://btholt.github.io/complete-intro-to-react/
