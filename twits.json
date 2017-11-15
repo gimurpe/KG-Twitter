@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "name": "Gilberto",
+      "twits": [
+        {
+          "year": "2008–2013",
+          "description":
+            "Two cousins, with different views on art versus commerce, on their way up through the Atlanta rap scene; \"Earnest 'Earn' Marks,\" an ambitious college drop-out and his estranged cousin, who suddenly becomes a star.",
+          "poster": "1.jpg",
+          "imdbID": "tt4288182",
+          "trailer": "MpEdJ-mmTlY",
+          "comments": [{ "name": "Gilberto", "value": "Great!" }]
+        },
+        {
+          "year": "2016–",
+          "description":
+            "U.S. Attorney Chuck Rhoades goes after hedge fund king, Bobby \"Axe\" Axelrod in a battle between two powerful New York figures.",
+          "poster": "2.jpg",
+          "imdbID": "tt4270492",
+          "trailer": "_raEUMLL-ZI",
+          "comments": [{ "name": "Gilberto", "value": "Great!" }]
+        },
+        {
+          "year": "2011–",
+          "description":
+            "A television anthology series that shows the dark side of life and technology.",
+          "poster": "3.jpg",
+          "imdbID": "tt2085059",
+          "trailer": "jDiYGjp5iFg",
+          "comments": [{ "name": "Gilberto", "value": "Great!" }]
+        },
+        {
+          "year": "2008–2013",
+          "description":
+            "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+          "poster": "4.jpg",
+          "imdbID": "tt0903747",
+          "trailer": "XZ8daibM3AE",
+          "comments": [{ "name": "Gilberto", "value": "Great!" }]
+        },
+        {
+          "year": "2011–",
+          "description":
+            "Nine noble families fight for control over the mythical lands of Westeros, while a forgotten race returns after being dormant for thousands of years.",
+          "poster": "5.jpg",
+          "imdbID": "tt0944947",
+          "trailer": "giYeaKsXnsI",
+          "comments": [{ "name": "Gilberto", "value": "Great!" }]
+        }
+      ]
+    },
+    {
+      "name": "Ernesto",
+      "twits": [
+        {
+          "year": "2008–2013",
+          "description":
+            "Two cousins, with different views on art versus commerce, on their way up through the Atlanta rap scene; \"Earnest 'Earn' Marks,\" an ambitious college drop-out and his estranged cousin, who suddenly becomes a star.",
+          "poster": "1.jpg",
+          "imdbID": "tt4288182a",
+          "trailer": "MpEdJ-mmTlY",
+          "comments": [{ "name": "Gilberto", "value": "Great!" }]
+        },
+        {
+          "year": "2016–",
+          "description":
+            "U.S. Attorney Chuck Rhoades goes after hedge fund king, Bobby \"Axe\" Axelrod in a battle between two powerful New York figures.",
+          "poster": "2.jpg",
+          "imdbID": "tt4270492a",
+          "trailer": "_raEUMLL-ZI",
+          "comments": [{ "name": "Gilberto", "value": "Great!" }]
+        },
+        {
+          "year": "2011–",
+          "description":
+            "A television anthology series that shows the dark side of life and technology.",
+          "poster": "3.jpg",
+          "imdbID": "tt2085059a",
+          "trailer": "jDiYGjp5iFg",
+          "comments": [{ "name": "Gilberto", "value": "Great!" }]
+        },
+        {
+          "year": "2008–2013",
+          "description":
+            "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+          "poster": "4.jpg",
+          "imdbID": "tt0903747a",
+          "trailer": "XZ8daibM3AE",
+          "comments": [{ "name": "Gilberto", "value": "Great!" }]
+        },
+        {
+          "year": "2011–",
+          "description":
+            "Nine noble families fight for control over the mythical lands of Westeros, while a forgotten race returns after being dormant for thousands of years.",
+          "poster": "5.jpg",
+          "imdbID": "tt0944947a",
+          "trailer": "giYeaKsXnsI",
+          "comments": [{ "name": "Gilberto", "value": "Great!" }]
+        }
+      ]
+    }
+  ],
+  "accounts": [
+    {
+      "username": "Gilberto",
+      "password": "1234"
+    },
+    {
+      "username": "Ernesto",
+      "password": "123"
+    },
+    {
+      "username": "Batman",
+      "password": "12"
+    },
+    {
+      "username": "Spike",
+      "password": "abc"
+    }
+  ]
+}

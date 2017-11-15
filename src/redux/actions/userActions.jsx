@@ -1,0 +1,6 @@
+/* eslint-disable */
+export const LOAD_ALL_USERS = 'LOAD_ALL_USERS'
+export const LOAD_ALL_USERS_SUCCESS = 'LOAD_ALL_USERS_SUCCESS'
+export const LOAD_ALL_USERS_FAILURE = 'LOAD_ALL_USERS_FAILURE'
+export const HANDLE_CHANGE_ON_FIELD = ' HANDLE_CHANGE_ON_FIELD'
+export const LOGIN = 'LOGIN'
